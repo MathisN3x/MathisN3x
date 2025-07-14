@@ -43,18 +43,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo-github&show_icons=true&theme=radical" alt="Statistiques GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo-github&layout=compact&theme=radical" alt="Langages les plus utilisés" />
-</p>
-
----
-
 ## 🎓 Distinctions & Engagements
 
 - 🥈 **Médaillé d’argent – Olympiades Panafricaines de Mathématiques 2025**
