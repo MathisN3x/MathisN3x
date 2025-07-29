@@ -61,4 +61,4 @@
 
 - 📄 [CV à venir]
 - 🌐 [Site web de sciences – bientôt en ligne]
-- 💼 LinkedIn : https://www.linkedin.com/in/w-f-mathis-billa-21884533b
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-W.F.Mathis_BILLA-blue?logo=linkedin&logoColor=white)](https://bf.linkedin.com/in/w-f-mathis-billa-21884533b)
