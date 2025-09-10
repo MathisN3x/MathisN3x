@@ -1,7 +1,3 @@
-<center>
-  <img src="https://avatars.githubusercontent.com/u/209634335?s=96&v=4" width="120" height="120">
-</center>
-
 # Salut 👋, je suis N3x
 
 ### Élève au Lycée Scientifique National de Bobo-Dioulasso | Médaillé d’argent aux Olympiades Panafricaines de Mathématiques 2025 | Passionné de Statistiques, IA, Finance Quantitative et Consulting Quantitatif
@@ -40,15 +36,12 @@
 
 ## 🏆 Projets & Réalisations
 
-| Projet | Description | |
-|--------|------------|-------------|
-| **Nexus Maths** | Communauté de **+400 passionnés de mathématiques** avec une plateforme interactive de tutoriels | 💻 **Site développé par moi** ! ![Nexus](https://img.shields.io/badge/Nexus_Maths-Interactive-orange?style=for-the-badge&animation=spin) |
-| **Data Analytics ** | Modèles prédictifs et projets d'analyse de données | ![ML](https://img.shields.io/badge/ML-Projects-blue?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
-| **Club Sciences – LSNB** | Organisation d’événements scientifiques et mentorat pour **>100 participants** | ![Science](https://img.shields.io/badge/Science-Club-success?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
-| **Club Écologie – LSNB** | **2e national au concours Ecolycee**, projets environnementaux et sensibilisation | ![Eco](https://img.shields.io/badge/Ecolycee-2%C3%A8me_national-green?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif) |
-
----
-
+| Projet | Description | Liens / Badges |
+|--------|------------|----------------|
+| **Nexus Maths** | Communauté de **+400 passionnés de mathématiques** avec une plateforme interactive. 💡 **Co-fondateur , président et développement complet du site en collaboration avec Tiecoura Ismaël Coulibaly** | 💻 [Site Web](https://nexus-maths.vercel.app/) ![Nexus](https://img.shields.io/badge/Nexus_Maths-Communaute-orange?style=for-the-badge&animation=spin) |
+| **Data Analytics** | Modèles prédictifs, visualisation et projets d’analyse de données avancée 📊 | ![ML](https://img.shields.io/badge/ML-Projects-blue?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
+| **Club Sciences – LSNB** | Organisation d’événements scientifiques et mentorat pour **>100 participants** 🔬 | ![Science](https://img.shields.io/badge/Science-Club-success?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
+| **Club Écologie – LSNB** | **2e national au concours Ecolycee**, projets environnementaux et sensibilisation 🌱 | ![Eco](https://img.shields.io/badge/Ecolycee-2%C3%A8me_national-green?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif) |
 ## 🎓 Distinctions & Engagements
 
 - 🥈 Médaillé d’argent – Olympiades Panafricaines de Mathématiques 2025  
