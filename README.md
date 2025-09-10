@@ -1,55 +1,62 @@
-<center><img src="https://avatars.githubusercontent.com/u/209634335?s=96&v=4"></center>
-<h1 align="center">Salut 👋, je suis N3x</h1>
-<h3 align="center">Élève au Lycée Scientifique National de Bobo-Dioulasso | Médaillé d’argent aux Olympiades Panafricaines de Mathématiques 2025 | Passionné de Statistiques, IA, Finance Quantitative et Consulting Quantitatif</h3>
+<center>
+  <img src="https://avatars.githubusercontent.com/u/209634335?s=96&v=4" width="120" height="120">
+</center>
+
+# Salut 👋, je suis N3x
+
+### Élève au Lycée Scientifique National de Bobo-Dioulasso | Médaillé d’argent aux Olympiades Panafricaines de Mathématiques 2025 | Passionné de Statistiques, IA, Finance Quantitative et Consulting Quantitatif
 
 ---
 
 - 🔭 Je travaille sur **projets de vulgarisation scientifique, modélisation mathématique et analyse de données**
 - 🌱 Je développe mes compétences en **machine learning, statistiques appliquées et finance quantitative**
-- 🎯 Objectif : **devenir leader africain du consulting quantitatif basé sur les mathématiques et l’IA**
-- 📫 Contact : **wmathisbilla@gmail.com**
+- 🎯 **Vision** : bâtir un hub africain basé sur l'IA et de mathématiques appliquées à la finance
+- 📫 Adresse mail: **wmathisbilla[arobase]gmail[dot]com**
 
 ---
 
 ## 🧠 Compétences
 
-| Compétence | Niveau | Badge |
+| Compétence | Niveau |  |
 |------------|--------|-------|
-| Mathématiques & Olympiades | 🥈 Médaillé PAMO 2025 | ![Pamo](https://img.shields.io/badge/PAMO-2025-silver) |
-| Data Science & ML | Avancé | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| Analyse & Visualisation | Avancé | ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) |
-| Développement Web | Intermédiaire | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| Rédaction scientifique | Avancé | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex) |
-| Leadership & Organisation | Expert | ![Leadership](https://img.shields.io/badge/-Leadership-FF69B4) |
+| Mathématiques & Olympiades | 🥈 Médaillé PAMO 2025 | ![PAMO](https://img.shields.io/badge/PAMO-2025-silver?style=for-the-badge&logo=mathworks&logoColor=white&animation=spin) |
+| Data Science & ML | Avancé | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin) ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=for-the-badge&animation=spin) |
+| Analyse & Visualisation | Avancé | ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white&animation=spin) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&animation=spin) |
+| Développement Web | Intermédiaire | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=spin) |
+| Rédaction scientifique | Avancé | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&animation=spin) |
+| Leadership & Organisation | Expert | ![Leadership](https://img.shields.io/badge/-Leadership-FF69B4?style=for-the-badge&animation=spin) |
 
 ---
 
 ## 💻 Langages & Outils
 
 **Langages :**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat&logo=latex)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin) ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=spin) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=spin) ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&animation=spin) ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex&animation=spin)
 
 **Outils :**  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=flat&logo=anaconda&logoColor=white) ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat&logo=spyder-ide&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&animation=spin) ![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white&animation=spin) ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white&animation=spin) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&animation=spin) ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=spin) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&animation=spin)
 
 ---
 
 ## 🏆 Projets & Réalisations
 
-| Projet | Description | Badge |
-|--------|------------|-------|
-| **Nexus Maths** | Plateforme de vulgarisation & tutoriels de mathématiques avancées | ![Nexus](https://img.shields.io/badge/Nexus_Maths-Interactive-orange) |
-| **Data Analytics & Finance Quant** | Modèles prédictifs et analyses de données financières | ![ML](https://img.shields.io/badge/ML-Projects-blue) |
-| **Club Sciences – LSNB** | Organisation d’événements scientifiques & mentorat | ![Science](https://img.shields.io/badge/Science-Club-success) |
+| Projet | Description | |
+|--------|------------|-------------|
+| **Nexus Maths** | Communauté de **+400 passionnés de mathématiques** avec une plateforme interactive de tutoriels | ![Nexus](https://img.shields.io/badge/Nexus_Maths-Interactive-orange?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) |
+| **Data Analytics & Finance Quant** | Modèles prédictifs et analyses de données financières pour projets réels | ![ML](https://img.shields.io/badge/ML-Projects-blue?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
+| **Club Sciences – LSNB** | Organisation d’événements scientifiques et mentorat pour **>100 participants** | ![Science](https://img.shields.io/badge/Science-Club-success?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
+| **Club Écologie – LSNB** | **2e national au concours Ecolycee**, projets environnementaux et sensibilisation | ![Eco](https://img.shields.io/badge/Ecolycee-2%C3%A8me_national-green?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif) |
 
 ---
 
 ## 🎓 Distinctions & Engagements
 
 - 🥈 Médaillé d’argent – Olympiades Panafricaines de Mathématiques 2025  
-- 📌 Président du **Club Mathématiques** et du **Club Sciences – LSNB**  
-- 👨‍🏫 Mentor bénévole pour les olympiades de mathématiques  
-- 📊 Organisation de projets scientifiques et compétitions pour plus de 100 participants  
+- 📌 Président du **Club Mathématiques**, **Club Sciences** et membre actif du **Club Écologie – LSNB**  
+- 👨‍🏫 Mentor bénévole pour les olympiades (**>50 élèves**)  
+- 🌱 Organisation de projets scientifiques pour **>100 participants**  
+- 🌟 **Nexus Maths : +400 membres actifs**  
+- 🌍 Club Écologie : **2e national – concours Ecolycee**
 
 ---
 
@@ -59,17 +66,26 @@
 
 ---
 
-## 🔗 Liens
+## 🔗 Liens & Contacts de Nexus Maths
 
-- 📄 [CV à venir]  
-- 🌐 [Site web du club sciences – bientôt en ligne]  
+📱 **Instagram** : [@nexus.maths](https://www.instagram.com/nexus.maths?igsh=MWZoeHZjZjE4em80)  
+🔗 **LinkedIn** : [Nexus Maths](https://www.linkedin.com/company/nexus-maths/)  
+📧 **Email** : [contact.nexusmaths@gmail.com](mailto:contact.nexusmaths@gmail.com)  
+🌐 **Site Web** : [nexus-maths.vercel.app](https://nexus-maths.vercel.app/)
+
+---
+
+## 🔗 Mes Liens Perso
+
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-W.F.Mathis_BILLA-blue?logo=linkedin&logoColor=white)](https://bf.linkedin.com/in/w-f-mathis-billa-21884533)  
 - [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)](https://github.com/WMathisBilla)
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WMathisBilla&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MathisN3x&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathisN3x&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
