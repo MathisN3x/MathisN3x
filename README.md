@@ -42,8 +42,8 @@
 
 | Projet | Description | |
 |--------|------------|-------------|
-| **Nexus Maths** | Communauté de **+400 passionnés de mathématiques** avec une plateforme interactive de tutoriels | ![Nexus](https://img.shields.io/badge/Nexus_Maths-Interactive-orange?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif) |
-| **Data Analytics & Finance Quant** | Modèles prédictifs et analyses de données financières pour projets réels | ![ML](https://img.shields.io/badge/ML-Projects-blue?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
+| **Nexus Maths** | Communauté de **+400 passionnés de mathématiques** avec une plateforme interactive de tutoriels | 💻 **Site développé par moi** ! ![Nexus](https://img.shields.io/badge/Nexus_Maths-Interactive-orange?style=for-the-badge&animation=spin) |
+| **Data Analytics ** | Modèles prédictifs et projets d'analyse de données | ![ML](https://img.shields.io/badge/ML-Projects-blue?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
 | **Club Sciences – LSNB** | Organisation d’événements scientifiques et mentorat pour **>100 participants** | ![Science](https://img.shields.io/badge/Science-Club-success?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
 | **Club Écologie – LSNB** | **2e national au concours Ecolycee**, projets environnementaux et sensibilisation | ![Eco](https://img.shields.io/badge/Ecolycee-2%C3%A8me_national-green?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif) |
 
