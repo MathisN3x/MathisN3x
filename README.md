@@ -36,12 +36,13 @@
 
 ## 🏆 Projets & Réalisations
 
-| Projet | Description | Liens / Badges |
+| Projet | Description |  |
 |--------|------------|----------------|
-| **Nexus Maths** | Communauté de **+400 passionnés de mathématiques** avec une plateforme interactive. 💡 **Co-fondateur , président et développement complet du site en collaboration avec Tiecoura Ismaël Coulibaly** | 💻 [Site Web](https://nexus-maths.vercel.app/) ![Nexus](https://img.shields.io/badge/Nexus_Maths-Communaute-orange?style=for-the-badge&animation=spin) |
-| **Data Analytics** | Modèles prédictifs, visualisation et projets d’analyse de données avancée 📊 | ![ML](https://img.shields.io/badge/ML-Projects-blue?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif) |
-| **Club Sciences – LSNB** | Organisation d’événements scientifiques et mentorat pour **>100 participants** 🔬 | ![Science](https://img.shields.io/badge/Science-Club-success?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif) |
-| **Club Écologie – LSNB** | **2e national au concours Ecolycee**, projets environnementaux et sensibilisation 🌱 | ![Eco](https://img.shields.io/badge/Ecolycee-2%C3%A8me_national-green?style=for-the-badge&animation=spin) ![GIF](https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif) |
+| **Nexus Maths** | Communauté de **+400 passionnés de mathématiques** avec une plateforme interactive. 💡 **Mon rôle : Co-fondateur, président, professeur bénévole et développement complet du site en collaboration avec Tiecoura Ismaël Coulibaly** | 💻 [Site Web](https://nexus-maths.vercel.app/) ![Nexus](https://img.shields.io/badge/Nexus_Maths-Communaute-orange?style=for-the-badge&animation=spin) |
+| **Data Analytics** | Modèles prédictifs, visualisation et projets d’analyse de données avancée 📊 | ![ML](https://img.shields.io/badge/ML-Projects-blue?style=for-the-badge&animation=spin) |
+| **Club Sciences – LSNB** | Organisation d’événements scientifiques et mentorat pour **>100 participants** 🔬 | ![Science](https://img.shields.io/badge/Science-Club-success?style=for-the-badge&animation=spin) |
+| **Club Écologie – LSNB** | **2e national au concours Ecolycee**, projets environnementaux et sensibilisation 🌱 | ![Eco](https://img.shields.io/badge/Ecolycee-2%C3%A8me_national-green?style=for-the-badge&animation=spin) |
+
 ## 🎓 Distinctions & Engagements
 
 - 🥈 Médaillé d’argent – Olympiades Panafricaines de Mathématiques 2025  
@@ -71,7 +72,7 @@
 ## 🔗 Mes Liens Perso
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-W.F.Mathis_BILLA-blue?logo=linkedin&logoColor=white)](https://bf.linkedin.com/in/w-f-mathis-billa-21884533)  
-- [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)](https://github.com/WMathisBilla)
+- [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github&logoColor=white)](https://github.com/MathisN3x)
 
 ---
 
