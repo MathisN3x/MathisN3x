@@ -1,4 +1,4 @@
-# Hi, I’m N3x
+# Hi, I’m Mathis
 
 ### Student at the National Scientific High School of Bobo-Dioulasso (LSNB) | Silver Medalist – 2025 Pan-African Mathematics Olympiad | Founder & President of Nexus Maths (700+ members) | Passionate about AI, Quantitative Finance & Applied Mathematics
 
