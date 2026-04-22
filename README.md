@@ -1,4 +1,5 @@
-# Mathis Billa
+# Hi, I'm N3x
+
 
 ### 🎓 Student · LSNB Bobo-Dioulasso | 🥈 PAMO 2025 Silver Medalist | 🚀 Founder & President of Nexus Maths (700+ members) | Passionate about AI, Quantitative Finance & Applied Mathematics
 
