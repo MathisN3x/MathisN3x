@@ -1,105 +1,119 @@
-# Hi, I’m Mathis
+# Mathis Billa
 
-### Student at the National Scientific High School of Bobo-Dioulasso (LSNB) | Silver Medalist – 2025 Pan-African Mathematics Olympiad | Founder & President of Nexus Maths (700+ members) | Passionate about AI, Quantitative Finance & Applied Mathematics
-
----
-
-- Currently building **Africa’s leading hub for AI-driven quantitative research and finance**  
-- Exploring **machine learning, applied statistics, data science, and quantitative finance**  
-- **Vision:** Inspire and mentor the next generation of African mathematicians and quantitative analysts  
-- Email: **wmathisbilla[at]gmail[dot]com**
+### 🎓 Student · LSNB Bobo-Dioulasso | 🥈 PAMO 2025 Silver Medalist | 🚀 Founder & President of Nexus Maths (700+ members) | Passionate about AI, Quantitative Finance & Applied Mathematics
 
 ---
 
-## Skills
-
-| Skill | Level | Badge |
-|-------|--------|--------|
-| Mathematics & Olympiads | PAMO Silver Medalist 2025 | ![PAMO](https://img.shields.io/badge/PAMO-2025-silver?style=for-the-badge&logo=mathworks&logoColor=white) |
-| Data Science & Machine Learning | Advanced | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![ML](https://img.shields.io/badge/-Machine_Learning-FF6F61?style=for-the-badge) |
-| Data Analysis & Visualization | Advanced | ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge) |
-| Web Development | Intermediate | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| Scientific Writing | Advanced | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex) |
-| Leadership & Project Management | Expert | ![Leadership](https://img.shields.io/badge/-Leadership-FF69B4?style=for-the-badge) |
+> *"Intelligence is the ability to adapt to change."* — Stephen Hawking
 
 ---
 
-## Languages & Tools
+## 👤 About Me
 
-**Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)  
+I'm a high school student at the **National Scientific High School of Bobo-Dioulasso (LSNB)**, building what I envision as **Africa's leading hub for AI-driven quantitative research and finance**. Through mathematics, machine learning, and community leadership, I aim to inspire and mentor the next generation of African mathematicians and quantitative analysts.
+
+📧 **wmathisbilla[at]gmail[dot]com** · 🌍 Bobo-Dioulasso, Burkina Faso
+
+---
+
+## 🏆 Distinctions & Leadership
+
+| Award / Role | Details |
+|---|---|
+| 🥈 PAMO Silver Medalist | Pan-African Mathematics Olympiad, 2025 |
+| 🏫 President | Math Club & Science Club – LSNB |
+| 🌿 2nd National | Ecolycée Competition – Ecology Club |
+| 🧑‍🏫 Volunteer Mentor | Olympiad training for 50+ students |
+| 🌐 Community Builder | Nexus Maths – 700+ active members |
+
+---
+
+## 🛠️ Skills
+
+| Skill | Level |
+|---|---|
+| Mathematics & Olympiads | 🥈 PAMO Silver Medalist 2025 |
+| Machine Learning & Data Science | ⭐ Advanced |
+| Data Analysis & Visualization | ⭐ Advanced |
+| Scientific Writing (LaTeX) | ⭐ Advanced |
+| Web Development | 🔧 Intermediate |
+| Leadership & Project Management | 💡 Expert |
+
+---
+
+## 💻 Languages & Tools
+
+**Languages:**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=for-the-badge&logo=latex)
 
-**Tools:**  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)  
-![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+**Tools & Environments:**
+
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
 
 ---
 
-## Projects & Achievements
+## 🚀 Projects & Achievements
 
 | Project | Description | Link |
-|---------|-------------|-------|
-| **Nexus Maths** | Africa’s 700+ members community for mathematics outreach, competitions, and interactive learning. **Role:** Co-founder, President, Lead Instructor, Full-stack Developer (with Tiecoura Ismaël Coulibaly). | [Website](https://nexus-maths.vercel.app/) |
-| **Data Analytics & ML Projects** | Predictive modeling, data visualization, exploratory data analysis, and ML-driven insights. | ML Portfolio |
-| **Science Club – LSNB** | Organizer and mentor for 100+ participants, coordinating workshops and events. | Science Club |
-| **Ecology Club – LSNB** | 2nd National – Ecolycee Competition; environmental projects, sustainability campaigns. | Ecolycee 2024 |
-| **NexusLearn** | Interactive platform for learning Python, data science, and quantitative skills. Includes tutorials, exercises, and certificates. | [Visit NexusLearn](https://nexuslearn.pythonanywhere.com/) |
+|---|---|---|
+| 🌐 **Nexus Maths** | Africa's mathematics community — 700+ members, competitions, outreach & interactive learning. *Co-founder, President, Lead Instructor & Full-stack Developer* (with Tiecoura Ismaël Coulibaly). | [nexus-maths.vercel.app](https://nexus-maths.vercel.app/) |
+| 📚 **NexusLearn** | Interactive learning platform for Python, data science & quantitative skills — tutorials, exercises & certificates. | [nexuslearn.pythonanywhere.com](https://nexuslearn.pythonanywhere.com/) |
+| 🤖 **ML & Data Analytics** | Predictive modeling, data visualization, exploratory analysis & ML-driven insights across education and finance. | ML Portfolio |
+| 🔬 **Science Club – LSNB** | Organizer & mentor for 100+ participants; coordinated workshops and scientific events. | Science Club |
+| 🌿 **Ecology Club – LSNB** | 2nd place nationally at the Ecolycée Competition; led sustainability campaigns and environmental projects. | Ecolycée 2024 |
 
 ---
 
-## Distinctions & Leadership
+## 📄 Research & Publications
 
-- Silver Medalist – Pan-African Mathematics Olympiad 2025  
-- President of Math Club, Science Club, and contributor to Ecology Club – LSNB  
-- Volunteer mentor for Olympiad training (50+ students)  
-- Nexus Maths: 700+ active members  
-- Ecology Club: 2nd National – Ecolycee Competition
+- Mathematical modeling and statistics applied to **finance** and **machine learning**
+- Predictive models for educational performance & data-driven insights for Olympiad training
+- Web-based learning platforms for STEM education in Africa
 
----
-
-## Impact & Roadmap (2025–2027)
-
-- 2025–2026: Expand Nexus Maths to 1,000+ active members and develop AI-based learning tools for NexusLearn  
-- 2026–2027: Compete in global math competitions (IMO, PAMO...); launch my own start-up  
-- Ongoing: Build open-source ML & finance projects, mentor next-gen African mathematicians, and foster research collaboration across Africa
+📖 [**Read my research paper on Reed–Solomon Codes →**](Paper.pdf)
 
 ---
 
-## Research & Publications
+## 🗺️ Roadmap 2025–2027
 
-- Mathematical modeling and statistics applied to finance and machine learning  
-- Projects: Predictive models for educational performance, data-driven insights for Olympiad training, and web-based learning platforms  
-- [Read my research paper on Reed–Solomon Codes](Paper.pdf)
+```
+2025 ──────────────────────────────────────────────────────────────► 2027
+  │                          │                              │
+  ▼                          ▼                              ▼
+Expand Nexus Maths      Compete at IMO & PAMO         Launch my startup
+to 1 000+ members    + AI tools on NexusLearn     + Open-source ML/Finance
+```
 
----
-
-## Favorite Quote
-
-*"Intelligence is the ability to adapt to change."* – Stephen Hawking
-
----
-
-## Nexus Maths Links
-
-Instagram: [@nexus.maths](https://www.instagram.com/nexus.maths)  
-LinkedIn: [Nexus Maths](https://www.linkedin.com/company/nexus-maths/)  
-Email: contact.nexusmaths@gmail.com  
-Website: https://nexus-maths.vercel.app
+- **2025–2026 :** Grow Nexus Maths to 1,000+ members · Develop AI-based learning tools for NexusLearn
+- **2026–2027 :** Compete at IMO & PAMO · Launch my own startup
+- **Ongoing :** Build open-source ML & finance projects · Mentor the next generation of African mathematicians · Foster pan-African research collaboration
 
 ---
 
-## Personal Links
+## 🌐 Nexus Maths
 
-[LinkedIn](https://bf.linkedin.com/in/w-f-mathis-billa-21884533)  
-[GitHub](https://github.com/MathisN3x)
+[![Instagram](https://img.shields.io/badge/@nexus.maths-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nexus.maths)
+[![LinkedIn](https://img.shields.io/badge/Nexus_Maths-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/nexus-maths/)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nexus-maths.vercel.app)
+[![Email](https://img.shields.io/badge/contact.nexusmaths@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.nexusmaths@gmail.com)
 
 ---
 
+## 🔗 Personal Links
+
+[![LinkedIn](https://img.shields.io/badge/Mathis_Billa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://bf.linkedin.com/in/w-f-mathis-billa-21884533)
+[![GitHub](https://img.shields.io/badge/MathisN3x-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MathisN3x)
+
+---
+
+<p align="center"><i>Building the future of African mathematics, one proof at a time. 🌍</i></p>
