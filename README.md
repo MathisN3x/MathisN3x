@@ -83,6 +83,8 @@ I'm a high school student at the **National Scientific High School of Bobo-Dioul
 
 📖 [**Read my research paper on Reed–Solomon Codes →**](reed_solomon_review.pdf)
 
+📖 [**Read my research paper on Emerging AI training algos→**](emerging_training_algos.pdf)
+
 ---
 
 ## 🗺️ Roadmap 2025–2027
