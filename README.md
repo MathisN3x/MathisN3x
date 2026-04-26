@@ -81,7 +81,7 @@ I'm a high school student at the **National Scientific High School of Bobo-Dioul
 - Predictive models for educational performance & data-driven insights for Olympiad training
 - Web-based learning platforms for STEM education in Africa
 
-📖 [**Read my research paper on Reed–Solomon Codes →**](Paper.pdf)
+📖 [**Read my research paper on Reed–Solomon Codes →**](reed_solomon_review.pdf)
 
 ---
 
