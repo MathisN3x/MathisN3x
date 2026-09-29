@@ -1,6 +1,6 @@
 # Hi, I'm N3x
 
-### Student · LSNB Bobo-Dioulasso | PAMO 2025 Silver Medalist | National Mathematics and Physics Olympiad Gold Medallist | Sole Global Winner, IRIS NextGen Scholarship (AI Category) | Founder & President of Nexus Maths (700+ members) | Passionate about AI, Quantitative Finance & Applied Mathematics
+### PAMO Silver Medalist | National Mathematics and Physics Olympiad Gold Medalist | IRIS NextGen Scholarship (AI Category) | Founder & President of Nexus Maths (700+ members) | Passionate about AI, Quantitative Finance & Mathematics
 
 ---
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a high school student at the National Scientific High School of Bobo-Dioulasso (LSNB), building what I envision as Africa's leading hub for AI-driven quantitative research and finance. Through mathematics, machine learning, and community leadership, I aim to inspire and mentor the next generation of African mathematicians and quantitative analysts.
+I'm a high school student building what I envision as Africa's leading hub for AI-driven quantitative research and finance. Through mathematics, machine learning, and community leadership, I aim to inspire and mentor the next generation of African mathematicians and quantitative analysts.
 
 wmathisbilla[at]gmail[dot]com · Bobo-Dioulasso, Burkina Faso
 
@@ -77,21 +77,7 @@ wmathisbilla[at]gmail[dot]com · Bobo-Dioulasso, Burkina Faso
 
 ---
 
-## Roadmap 2025-2027
 
-```
-2025 --------------------------------------------------------------> 2027
-  |                          |                              |
-  v                          v                              v
-Expand Nexus Maths      Compete at IMO & PAMO         Launch my startup
-to 1 000+ members    + Launch Nexus Admit          + Open-source ML/Finance
-```
-
-- 2025-2026: Grow Nexus Maths to 1,000+ members. Launch Nexus Admit.
-- 2026-2027: Compete at IMO & PAMO. Launch my own startup.
-- Ongoing: Build open-source ML & finance projects. Mentor the next generation of African mathematicians. Foster pan-African research collaboration.
-
----
 
 ## Nexus Maths
 
