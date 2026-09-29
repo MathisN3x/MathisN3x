@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a high school student building what I envision as Africa's leading hub for AI-driven quantitative research and finance. Through mathematics, machine learning, and community leadership, I aim to inspire and mentor the next generation of African mathematicians and quantitative analysts.
+I'm a student building what I envision as Africa's leading hub for AI-driven quantitative research and finance. Through mathematics, machine learning, and community leadership, I aim to inspire and mentor the next generation of African mathematicians and quantitative analysts.
 
 wmathisbilla[at]gmail[dot]com · Bobo-Dioulasso, Burkina Faso
 
