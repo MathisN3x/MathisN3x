@@ -4,7 +4,7 @@
 
 ---
 
-> "Intelligence is the ability to adapt to change." — Stephen Hawking
+> "Intelligence is the ability to adapt to change." - Stephen Hawking
 
 ---
 
